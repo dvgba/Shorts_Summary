@@ -10,9 +10,10 @@
   margin-top: -5px;
 }
 
-#app > img {
-  width: 64px;
-}
+//#app > img {
+//  width: 64px;
+//}
+
 
 #app > h2 {
   align-self: flex-start;

@@ -1,0 +1,13 @@
+{
+  "name": "nlwia",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "web": "vite"
+    
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
